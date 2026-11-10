@@ -1,77 +1,31 @@
-<div align="center">
+# Hi there, I'm [Nama Anda] 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:102A56,100:0071E3&height=220&section=header&text=Sovra%20Pasopati&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Aspiring%20Web%20Developer&descAlignY=60&descSize=17" width="100%" />
-
-# Hi, I'm Sovra Pasopati 👋
-
-### Student • Aspiring Web Developer • Tech Enthusiast
-
-Building things for the web, learning new technologies, and turning ideas into reality.
-
-<a href="https://instagram.com/sovrapasopati"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" alt="Instagram"/></a>
-&nbsp;&nbsp;
-<a href="https://tiktok.com/@jack_holisterrr"><img src="https://cdn.simpleicons.org/tiktok/FFFFFF" width="30" alt="TikTok"/></a>
-&nbsp;&nbsp;
-<a href="mailto:sovrakairi@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Gmail"/></a>
-
-</div>
+🎓 **Software Engineering Student & Frontend/Mobile Developer**  
+💡 Passionate about crafting intuitive UI/UX, building web & mobile applications, and writing clean, maintainable code.
 
 ---
 
-## 👨‍💻 About Me
+### 🚀 About Me
 
-I'm Sovra Pasopati, a student at SMA IT HSI with a strong interest in Information Technology, especially Web Development and Software Engineering.
-
-I enjoy exploring new technologies, building websites, and learning how things work behind the scenes.
-
-- 🌱 Currently learning **JavaScript, React, and Web Development**
-- 💻 Interested in **Frontend Development**
-- 🎨 Enjoy creating modern and clean UI designs
-- 🚀 Always excited to learn and build new projects
+- 📱 **Mobile Development:** Learning & building cross-platform applications using **Flutter**.
+- 💻 **Web Development:** Experienced in building interactive real-time web apps with **React JS** & **Firebase**.
+- 🐍 **Scripting & Automation:** Developing utility scripts and terminal animations in **Python**.
+- 🎨 **UI/UX Design:** Drafting, prototyping, and refining interface layouts in **Figma** before converting them into production-ready frontend code.
+- ⚙️ **Workflow:** Primary editor is **VS Code**, running tasks via **Windows Terminal** on a Lenovo LOQ system.
 
 ---
 
-## ⚡ Core Tech Stacks
+### 🛠️ Tech Stack & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
-</p>
+**Languages & Frameworks:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-## 🧩 Other Tech Stacks
-
-<p>
-<img src="https://skillicons.dev/icons?i=supabase,git,github" />
-</p>
-
----
-
-## 🛠️ Tools & Software
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,figma,windows" height="48" />
-<img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="Canva"/>
-<img src="./assets/capcut.svg" height="48" alt="CapCut"/>
-<img src="./assets/alight-motion.svg" height="48" alt="Alight Motion"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sovrapasopati&show_icons=true&theme=transparent&hide_border=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovrapasopati&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Keep Learning, Keep Building.
-
-*Turning curiosity into creativity, one line of code at a time.*
-
-</div>
+**Backend & Tools:**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](
