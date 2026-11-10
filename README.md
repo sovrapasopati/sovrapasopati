@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi, I'm Sovra Pasopati 👋
@@ -7,7 +6,9 @@
 
 Building things for the web, learning new technologies, and turning ideas into reality.
 
-[![GitHub](https://img.shields.io/badge/GitHub-sovrapasopati-181717?style=for-the-badge&logo=github)](https://github.com/sovrapasopati)
+[![Instagram](https://img.shields.io/badge/Instagram-sovrapasopati-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sovrapasopati)
+[![TikTok](https://img.shields.io/badge/TikTok-jack__holisterrr-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@jack_holisterrr)
+[![Email](https://img.shields.io/badge/Email-sovrakairi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sovrakairi@gmail.com)
 
 </div>
 
@@ -41,18 +42,13 @@ I enjoy exploring new technologies, building websites, and learning how things w
 ## 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,canva,windows" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,canva" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| [iPhone Landing Page](https://github.com/sovrapasopati/ladingpage-iphone) | A landing page inspired by Apple's design. |
-| [Portfolio](https://github.com/sovrapasopati/portofolio-11-2025) | My personal portfolio project. |
-| [HTML Learning](https://github.com/sovrapasopati/belajar-html) | My journey learning HTML. |
+<p>
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
+</p>
 
 ---
 
