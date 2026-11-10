@@ -8,17 +8,11 @@
 
 Building things for the web, learning new technologies, and turning ideas into reality.
 
-<a href="https://instagram.com/sovrapasopati">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" alt="Instagram"/>
-</a>
+<a href="https://instagram.com/sovrapasopati"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" alt="Instagram"/></a>
 &nbsp;&nbsp;
-<a href="https://tiktok.com/@jack_holisterrr">
-<img src="https://cdn.simpleicons.org/tiktok/white" width="32" alt="TikTok"/>
-</a>
+<a href="https://tiktok.com/@jack_holisterrr"><img src="https://cdn.simpleicons.org/tiktok/FFFFFF" width="30" alt="TikTok"/></a>
 &nbsp;&nbsp;
-<a href="mailto:sovrakairi@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Gmail"/>
-</a>
+<a href="mailto:sovrakairi@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Gmail"/></a>
 
 </div>
 
@@ -39,13 +33,13 @@ I enjoy exploring new technologies, building websites, and learning how things w
 
 ## ⚡ Core Tech Stacks
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
 </p>
 
 ## 🧩 Other Tech Stacks
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=supabase,git,github" />
 </p>
 
@@ -54,10 +48,10 @@ I enjoy exploring new technologies, building websites, and learning how things w
 ## 🛠️ Tools & Software
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,figma,windows" />
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" alt="Canva"/>
-<img src="https://cdn.simpleicons.org/capcut/white" width="48" alt="CapCut"/>
-<img src="https://cdn.simpleicons.org/alightmotion/white" width="48" alt="Alight Motion"/>
+<img src="https://skillicons.dev/icons?i=vscode,figma,windows" height="48" />
+<img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="Canva"/>
+<img src="./assets/capcut.svg" height="48" alt="CapCut"/>
+<img src="./assets/alight-motion.svg" height="48" alt="Alight Motion"/>
 </p>
 
 ---
@@ -69,8 +63,6 @@ I enjoy exploring new technologies, building websites, and learning how things w
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=sovrapasopati&show_icons=true&theme=transparent&hide_border=true" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovrapasopati&layout=compact&theme=transparent&hide_border=true" />
-
-<img width="95%" src="https://streak-stats.demolab.com?user=sovrapasopati&theme=transparent&hide_border=true" />
 
 </div>
 
