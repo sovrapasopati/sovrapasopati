@@ -9,13 +9,15 @@
 Building things for the web, learning new technologies, and turning ideas into reality.
 
 <a href="https://instagram.com/sovrapasopati">
-<img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" alt="Instagram"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://tiktok.com/@jack_holisterrr">
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+<img src="https://cdn.simpleicons.org/tiktok/white" width="32" alt="TikTok"/>
 </a>
+&nbsp;&nbsp;
 <a href="mailto:sovrakairi@gmail.com">
-<img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Gmail"/>
 </a>
 
 </div>
@@ -52,24 +54,10 @@ I enjoy exploring new technologies, building websites, and learning how things w
 ## 🛠️ Tools & Software
 
 <p align="left">
-<a href="https://code.visualstudio.com/">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</a>
-<a href="https://www.figma.com/">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</a>
-<a href="https://www.canva.com/">
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</a>
-<a href="https://www.capcut.com/">
-<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
-</a>
-<a href="https://alightmotion.com/">
-<img src="https://img.shields.io/badge/Alight_Motion-1A1A1A?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://www.microsoft.com/windows">
-<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
-</a>
+<img src="https://skillicons.dev/icons?i=vscode,figma,windows" />
+<img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" alt="Canva"/>
+<img src="https://cdn.simpleicons.org/capcut/white" width="48" alt="CapCut"/>
+<img src="https://cdn.simpleicons.org/alightmotion/white" width="48" alt="Alight Motion"/>
 </p>
 
 ---
