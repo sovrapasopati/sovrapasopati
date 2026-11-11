@@ -47,7 +47,7 @@ I believe that learning is a continuous process, and I'm always excited to disco
 ### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,supabase" height="45" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,supabase,windows" height="45" />
 </p>
 
 
