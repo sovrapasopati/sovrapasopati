@@ -5,27 +5,39 @@
 </p>
 
 <!-- ABOUT ME -->
-I'm Sovra Pasopati, a high school student from Indonesia with a strong interest in Information Technology and Software Development.
+### About Me
 
-I have a passion for web development and enjoy creating modern, responsive, and user-friendly digital experiences. I'm currently focusing on improving my skills in HTML, CSS, JavaScript, and React while exploring new technologies and building personal projects.
+Hi! I'm **Sovra Pasopati**, a high school student from Indonesia who is interested in Information Technology and Software Development.
+I enjoy learning new things about technology, especially web development and programming. I started learning how websites work and how to build them using HTML, CSS, and JavaScript. Currently, I'm also exploring React and other technologies to improve my skills.
+I like creating simple and useful projects, experimenting with new ideas, and finding ways to solve problems through technology. I believe that learning by doing is one of the best ways to improve my abilities.
+Besides programming, I also enjoy exploring design tools such as Figma and Canva to create clean and attractive designs.
+My goal is to become a skilled developer who can build useful applications, create meaningful projects, and keep learning new things every day.
 
-I believe that learning is a continuous process, and I'm always excited to discover new things, solve problems, and turn ideas into reality through technology.
+**I'm still learning, still growing, and always excited to try something new!**
 
-<!-- SOCIAL MEDIA -->
 ### Social Media
 
 <p align="left">
-  <a href="https://github.com/sovrapasopati">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://instagram.com/USERNAME">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
   <a href="https://tiktok.com/@USERNAME">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/tiktok/FFFFFF" height="40"/>
+  </a>
+  <a href="https://twitter.com/USERNAME">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://open.spotify.com/user/USERNAME">
+    <img src="https://skillicons.dev/icons?i=spotify" height="40" />
+  </a>
+  <a href="mailto:EMAIL_KAMU">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="https://github.com/sovrapasopati">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
 </p>
 
