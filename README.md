@@ -33,14 +33,14 @@ I believe that learning is a continuous process, and I'm always excited to disco
 ### Core Tech Stacks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python" />
 </p>
 
 <!-- OTHER TECH STACKS -->
 ### Other Tech Stacks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
+  <img src="https://skillicons.dev/icons?i=flutter,nodejs,vite,npm" />
 </p>
 
 <!-- TOOLS -->
