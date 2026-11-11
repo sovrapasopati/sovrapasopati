@@ -30,17 +30,10 @@ I believe that learning is a continuous process, and I'm always excited to disco
 </p>
 
 <!-- CORE TECH STACKS -->
-### Core Tech Stacks
+### What i learn
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python" />
-</p>
-
-<!-- OTHER TECH STACKS -->
-### Other Tech Stacks
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,nodejs,vite,npm" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,vite,npm,python,flutter" />
 </p>
 
 <!-- TOOLS -->
